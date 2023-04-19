@@ -34,6 +34,7 @@ for more information about currently available computer-based applications.
 * BIOPASS Situation Ontology (BISON) [[Git](https://github.com/Onto-Med/BISON)]
 * Search Ontology (SON) [[J Biomed Semantics](https://doi.org/10.1186/s13326-019-0203-7)]
 * GFO-Bio [](https://www.onto-med.de/ontologies/gfo-bio) [[CVS](http://cvs.savannah.gnu.org/viewvc/gfo/gfo-bio/)]
+* Risk Identification Ontology (RIO) [[J Biomed Semantics](https://doi.org/10.1186/s13326-017-0147-8)]
 
 ## 🌈 Contribution Guidelines
 Feel free to create issues or pull requests in our repositories.
