@@ -32,11 +32,12 @@ for more information about currently available computer-based applications.
 ## 👩‍💻 Some Ontologies that use the General Formal Ontology
 | Ontology | Source | IRI |
 | --- | --- | --- |
-| Core Ontology of Phenotyping (COP) | [Git](https://github.com/Onto-Med/COP) | https://w3id.org/cop/ |
-| BIOPASS Situation Ontology (BISON) | [Git](https://github.com/Onto-Med/BISON) | http://www.onto-med.de/ontologies/biopass-core.owl |
-| Search Ontology (SON) | [J Biomed Semantics](https://doi.org/10.1186/s13326-019-0203-7) | |
+| Anthropological Notation Ontology (ANNO) | [Git](https://github.com/annosaxfdm/ontology) | https://annosaxfdm.de/ontology/ |
 | Biological Core Ontology (GFO-Bio) | [CVS](http://cvs.savannah.gnu.org/viewvc/gfo/gfo-bio/) | http://onto.eva.mpg.de/ontologies/gfo-bio.owl |
+| BIOPASS Situation Ontology (BISON) | [Git](https://github.com/Onto-Med/BISON) | http://www.onto-med.de/ontologies/biopass-core.owl |
+| Core Ontology of Phenotyping (COP) | [Git](https://github.com/Onto-Med/COP) | https://w3id.org/cop/ |
 | Risk Identification Ontology (RIO) | [J Biomed Semantics](https://doi.org/10.1186/s13326-017-0147-8) | |
+| Search Ontology (SON) | [J Biomed Semantics](https://doi.org/10.1186/s13326-019-0203-7) | |
 
 ## 🌈 Contribution Guidelines
 Feel free to create issues or pull requests in our repositories.
