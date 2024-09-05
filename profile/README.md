@@ -37,7 +37,7 @@ for more information about currently available computer-based applications.
 | BIOPASS Situation Ontology (BISON) | [Git](https://github.com/Onto-Med/BISON) | http://www.onto-med.de/ontologies/biopass-core.owl |
 | Core Ontology of Phenotyping (COP) | [Git](https://github.com/Onto-Med/COP) | https://w3id.org/cop/ |
 | Risk Identification Ontology (RIO) | [J Biomed Semantics](https://doi.org/10.1186/s13326-017-0147-8) | |
-| Search Ontology (SON) | [J Biomed Semantics](https://doi.org/10.1186/s13326-019-0203-7) | |
+| Search Ontology (SON) | [Git](https://github.com/Onto-Med/RIO) | https://w3id.org/rio/ |
 
 ## 🌈 Contribution Guidelines
 Feel free to create issues or pull requests in our repositories.
