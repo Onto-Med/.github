@@ -36,6 +36,7 @@ for more information about currently available computer-based applications.
 | Biological Core Ontology (GFO-Bio) | [CVS](http://cvs.savannah.gnu.org/viewvc/gfo/gfo-bio/) | http://onto.eva.mpg.de/ontologies/gfo-bio.owl |
 | BIOPASS Situation Ontology (BISON) | [Git](https://github.com/Onto-Med/BISON) | http://www.onto-med.de/ontologies/biopass-core.owl |
 | Core Ontology of Phenotyping (COP) | [Git](https://github.com/Onto-Med/COP) | https://w3id.org/cop/ |
+| GFO-light | [Git](https://github.com/Onto-Med/gfo-light) | https://w3id.org/gfo-light/ |
 | Risk Identification Ontology (RIO) | [Git](https://github.com/Onto-Med/RIO) | https://w3id.org/rio/ |
 | Search Ontology (SON) | [J Biomed Semantics](https://doi.org/10.1186/s13326-019-0203-7) | |
 
